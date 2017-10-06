@@ -1,13 +1,8 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "康龙公卫"
+theme = "hyde"
 
-
-description = "x-camp第一课作业"
-tags = ["blog", "company"]
-features = ["blog", "themes", "disqus"]
-min_version = 0.29
-
-[author]
-    name = "shaolong98"
-    homepage = "/"
+[params]
+    description = "这里是shaolong98的x-camp博客"
+    themeColor = "theme-base-08" # for hyde theme
