@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "康龙公卫"
 theme = "hyde"
+publicDir = "public"
 
 [params]
     description = "这里是shaolong98的x-camp博客"
